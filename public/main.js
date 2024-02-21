@@ -1,6 +1,6 @@
 // Define ctaClick function
 function ctaClick() {
-    window.location.href = "https://www.rightamericanflag.com/cfv1/?affId=CDB7208E&c1=11458&c2=&sub5=&oid=1928&affid=11458&gtm_debug=1707756768489";
+    window.location.href = "https://t.todaysdailytip.com/click"
 }
 
 // // OptBtn1 click event
